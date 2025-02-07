@@ -14,7 +14,7 @@
 1. **克隆插件仓库**：将插件代码克隆到本地。
 
    ```bash
-   git clone https://your-repo-url.git
+   git clone https://github.com/shouzia/zhenxun_ai_plugin.git
    ```
 
 2. **复制插件到插件目录**：将克隆的插件文件夹复制到 `zhenxun_bot` 的 `plugins` 目录下。
