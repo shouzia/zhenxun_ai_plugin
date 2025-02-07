@@ -18,7 +18,7 @@ __plugin_meta__ = PluginMetadata(
     usage="""
     指令：
         @机器人 + 消息
-        @机器人 情况对话
+        @机器人 清空对话
     """.strip(),
     extra={
         "author": "shouzi",
