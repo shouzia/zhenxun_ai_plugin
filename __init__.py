@@ -14,7 +14,6 @@ import os
 __plugin_meta__ = PluginMetadata(
     name="AI",
     description="AI对话",
-    usage="@机器人 + 消息",
     usage="""
     指令：
         @机器人 + 消息
